@@ -9,6 +9,7 @@ return {
       vim.g.augment_workspace_folders = {
         "/home/mickmart/projet/fdf/",
         "/home/mickmart/projet",
+        "/home/mickmart/Documents/correction",
       }
 
       -- Configurez d'autres options selon vos besoins
