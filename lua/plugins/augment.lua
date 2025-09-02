@@ -7,10 +7,11 @@ return {
     config = function()
       -- Définir vos dossiers de travail
       vim.g.augment_workspace_folders = {
-        "/home/mickmart/projet/fdf/",
-        "/home/mickmart/projet",
-        "/home/mickmart/projet/philo/philo/",
-        "/home/mickmart/Documents/correction",
+        -- "/home/mickmart/projet/fdf/",
+        -- "/home/mickmart/projet",
+        --"/home/mickmart/projet/philo/philo/",
+        "/home/mickmart/projet/inshell/",
+        "/home/mickmart/projet/philo/",
       }
 
       -- Configurez d'autres options selon vos besoins
